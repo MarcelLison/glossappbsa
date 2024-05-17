@@ -1,0 +1,8 @@
+site_name: AMM
+
+nav:
+  - Gruppe: gruppe.md
+  - Fragen: fragen.md
+
+theme:
+  name: 'material'
