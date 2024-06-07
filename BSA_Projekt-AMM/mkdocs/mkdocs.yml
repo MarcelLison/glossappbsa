@@ -1,8 +1,12 @@
 site_name: AMM
 
 nav:
+  - Home: index.md
   - Gruppe: gruppe.md
   - Fragen: fragen.md
 
 theme:
   name: 'material'
+
+
+
