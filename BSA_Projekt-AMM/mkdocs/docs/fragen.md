@@ -93,12 +93,35 @@ Die Glossapp wird über eine Kombination von Strato und Cloudfare gehosted. Stra
                                         
 # <a name="was-sollte-man-wissen">Was sollte man wissen, wenn man an der Glossapp weiter arbeiten möchte?</a>
 
+## Was sollte man wissen, wenn man an der Glossapp weiterarbeiten möchte?
+
+- Technologie-Stack: Kenntnisse über die verwendeten Technologien und Frameworks (z.B., Docusaurus, Docker).
+
+- Code-Struktur: Verstehen der Projektstruktur und des Codes.
+
+- Deployment-Prozess: Verstehen, wie die Anwendung und die Dokumentation deployt werden.
+
+- Zugriffsrechte: Wissen über Benutzer- und Zugriffsrechte auf dem Server.
+
+<!-- 
 Um an der Glossapp weiterzuarbeiten,
 solltest du die verwendeten Technologien und Frameworks verstehen
 sowie Zugang zu den entsprechenden Quellcode- und Konfigurationsdateien haben. 
 Als Einstieg sollte man das gitlab Repository eingehend studieren. Ein Blick auf die Wiki sollte auch weiterhelfen.
 Ansonsten bei dem Vorgänger Jahrgang und/oder bei Kommilitonen
 nachfragen.
+
+-->
+
+# <a name="">Wissenswertes Glossapp
+Was sollte man wissen, wenn man an der Glossapp weiterarbeiten möchte?
+Technologie-Stack: Kenntnisse über die verwendeten Technologien und Frameworks (z.B., Docusaurus, Docker).
+
+Code-Struktur: Verstehen der Projektstruktur und des Codes.
+
+Deployment-Prozess: Verstehen, wie die Anwendung und die Dokumentation deployt werden.
+
+Zugriffsrechte: Wissen über Benutzer- und Zugriffsrechte auf dem Server.
 
 URL: [Glossapp Repository](#https://gitlab.glossapp.de/)
 
