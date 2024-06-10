@@ -3,6 +3,7 @@ site_name: AMM
 nav:
   - Gruppe: gruppe.md
   - Fragen: fragen.md
+  - Praesentation: praesentation.md
 
 theme:
   name: 'material'
