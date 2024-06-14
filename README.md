@@ -34,11 +34,13 @@ schriftlich ->      https://docs.techdox.nz/mkdocs/
 Tutorial Video ->   https://www.youtube.com/watch?v=K2RDsWgwDTU
 
 Wofür verwenden wir Mkdocs?
+
 MkDocs wird verwendet, um die Dokumentation für die Glossapp zu erstellen und zu verwalten.
 Die Installation erfolgt mithilfe von Pip oder Docker-Compose. In unserem Fall nutzen wir Docker-Compose.
 
 
 2.2 -> Dockerstarten:
+
     Docker wird verwendet, um die Glossapp in Containern zu isolieren und zu betreiben.
     Der Docker-Dienst wird mit Docker-Compose gestartet.
-    Der Befehl hierzu ist, sofern alles richtig gemacht wurde "sudo docker-compose up -d" im zugehörigen Verzeichnis.
+    Der Befehl hierzu ist, sofern alles richtig gemacht wurde '"sudo docker-compose up -d"' im zugehörigen Verzeichnis.
